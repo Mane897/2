@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\practica_1\practica_1\obj\Debug\practica_1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\practica_1\practica_1\bin\Debug\practica_1.exe.config
+C:\Users\Dell\source\repos\practica_1\practica_1\bin\Debug\practica_1.exe
+C:\Users\Dell\source\repos\practica_1\practica_1\bin\Debug\practica_1.pdb
+C:\Users\Dell\source\repos\practica_1\practica_1\obj\Debug\practica_1.exe
+C:\Users\Dell\source\repos\practica_1\practica_1\obj\Debug\practica_1.pdb
+C:\Users\Dell\source\repos\practica_1\practica_1\obj\Debug\practica_1.csprojAssemblyReference.cache

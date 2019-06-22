@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\Herencia\Herencia\bin\Debug\Herencia.exe.config
+C:\Users\Dell\source\repos\Herencia\Herencia\bin\Debug\Herencia.exe
+C:\Users\Dell\source\repos\Herencia\Herencia\bin\Debug\Herencia.pdb
+C:\Users\Dell\source\repos\Herencia\Herencia\obj\Debug\Herencia.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Herencia\Herencia\obj\Debug\Herencia.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Herencia\Herencia\obj\Debug\Herencia.exe
+C:\Users\Dell\source\repos\Herencia\Herencia\obj\Debug\Herencia.pdb
